@@ -1,0 +1,14 @@
+{
+    "emmet.excludeLanguages": [
+        
+
+        "markdown"
+    ],
+    
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "prettier.useTabs": true
+    
+}
