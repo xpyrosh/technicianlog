@@ -15,7 +15,11 @@
       "id": 4
     },
     {
-      "id": 5
+      "id": 5,
+      "message": "Hard drive failiure on server 002-110",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-04-17T20:57:30.247Z"
     }
   ],
   "techs": [
