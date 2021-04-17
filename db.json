@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Harddrive failiure on server 002-110",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2021-04-17T19:59:30.032Z",
-      "id": 2
-    },
-    {
       "message": "Wireless down in Building C",
       "attention": true,
       "tech": "Sue Smith",
@@ -20,6 +13,9 @@
       "tech": "John Doe",
       "date": "2021-04-17T20:12:01.647Z",
       "id": 4
+    },
+    {
+      "id": 5
     }
   ],
   "techs": [
