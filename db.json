@@ -1,31 +1,24 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Harddrive failiure on server 002-110",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2021-04-17T19:59:30.032Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
-    },
-    {
-      "message": "Changed memory in PC 0029320-1",
-      "attention": false,
+      "message": "Wireless down in Building C",
+      "attention": true,
       "tech": "Sue Smith",
-      "date": "2021-04-17T19:56:21.868Z",
+      "date": "2021-04-17T19:59:51.769Z",
+      "id": 3
+    },
+    {
+      "message": "Changed RAM on PC 213120-12",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-04-17T20:12:01.647Z",
       "id": 4
     }
   ],
