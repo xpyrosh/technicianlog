@@ -26,6 +26,7 @@ const TechListModal = ({ getTechs, tech: { techs, loading } }) => {
 
 TechListModal.propTypes = {
 	getTechs: PropTypes.func.isRequired,
+	tech: PropTypes.object.isRequired,
 };
 
 const mapStateToProps = (state) => ({
